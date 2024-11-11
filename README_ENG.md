@@ -23,6 +23,7 @@ A possible solution is to modify line 23 as follows:
 ---
 ### 2. Create a Bot and Authenticate with Telegram Applications
 You can easily find guides on how to do this on YouTube.
+You also need to create a group with the bot where the list will be sent.
 ### 3. Создайте файл `.env`
 In the project folder, create a `confidential.env` file and enter the following:
 
